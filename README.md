@@ -18,7 +18,7 @@
 
 ## 📌 Featured Projects
 
-### 🔐 [Post-Quantum Cryptography Benchmarking for IoT](https://github.com/yourusername/pqc-iot-benchmark)  
+### 🔐 [Post-Quantum Cryptography Benchmarking for IoT](https://github.com/ethanchequer/FinalYearProject)  
 Final year dissertation project benchmarking PQC algorithms on resource-constrained devices. Features an AI-powered recommendation system to help select secure and efficient algorithms.
 
 ---
@@ -26,7 +26,7 @@ Final year dissertation project benchmarking PQC algorithms on resource-constrai
 
 ## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)  
+- 💼 [LinkedIn](www.linkedin.com/in/ethan-chequer-502a63263)  
 - 📧 Email: ethanchequer@gmail.com  
 - 🧠 TryHackMe: [@echeq](https://tryhackme.com/p/echeq)
 
